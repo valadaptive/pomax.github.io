@@ -4,18 +4,18 @@
 <atom:link href="https://pomax.github.io/gh-weblog/rss.xml" rel="self" type="application/rss+xml" />
 <title>Pomax.github.io</title>
 <description>Because chronicling the past using technology is kind of cool.</description>
-<link>https://valadaptive.github.io/pomax.github.io/</link>
-<lastBuildDate>Fri, 10 Jan 2025 12:45:49 GMT</lastBuildDate>
-<pubDate>Fri, 10 Jan 2025 12:45:49 GMT</pubDate>
+<link>http://0.0.0.0:8000/</link>
+<lastBuildDate>Fri, 10 Jan 2025 13:28:19 GMT</lastBuildDate>
+<pubDate>Fri, 10 Jan 2025 13:28:19 GMT</pubDate>
 <ttl>1440</ttl><item>
-<title># Test</title>
-<description><![CDATA[<h1 id="test">Test</h1>
-<p>test</p>
+<title>Meow</title>
+<description><![CDATA[<h1 id="meow">Meow</h1>
+<p>This is a test</p>
 ]]></description>
 
-<link>https://pomax.github.io?postid=1736513140551</link>
-<guid>https://pomax.github.io?postid=1736513140551</guid>
-<pubDate>Fri, 10 Jan 2025 12:45:40 GMT</pubDate>
+<link>https://pomax.github.io?postid=1736515689164</link>
+<guid>https://pomax.github.io?postid=1736515689164</guid>
+<pubDate>Fri, 10 Jan 2025 13:28:09 GMT</pubDate>
 </item>
 <item>
 <title>Updating my blog platform</title>
